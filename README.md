@@ -1,5 +1,8 @@
 # Rocket-League-Stat-Tracker
 Final Project
+
+**Use rlStats.m other functions are to show who did what.
+
 Save the Repository to your Matlab directory 
 Open and run rlStats on Matlab Before entering any stats click the reset button. 
 The reset button will need to be reset every time the code is closed and reopened. 
