@@ -1,4 +1,4 @@
-function [] = rlStats2()
+function [] = rocketLeagueStats()
 
 global score;
 global goals;
